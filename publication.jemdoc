@@ -1,8 +1,15 @@
 # jemdoc: menu{MENU}{publication.html}, nofooter  
 =Publication
 
+== Preprint
+- *He, Z.*, Zhao, B. and Zhang Z., Tensor completion with active sampling for high-dimensional MRI reconstruction, submitted to / IEEE Journal of Selected Topics in Signal Processing/.
+
+
+== 2020
+- *He, Z.* and Zhang, Z., High-Dimensional Uncertainty Quantification via Active and Rank-Adaptive Tensor Regression, / IEEE Electrical Performance of Electronic Packaging and Systems (EPEPS)/, San Jose, Oct. 2020.
+
 == 2019
-- *He, Z.*, Cui, W., Cui C., Sherwood, T. and Zhang, Z., Efficient uncertainty modeling for system design via mixed integer programming, accepted by /International Conf. Computer Aided Design (ICCAD)/, 8 pages, Westminster, CO, Nov. 2019. (Acceptance rate = 23.8\%)
+- *He, Z.*, Cui, W., Cui C., Sherwood, T. and Zhang, Z., Efficient uncertainty modeling for system design via mixed integer programming, /International Conf. Computer Aided Design (ICCAD)/, 8 pages, Westminster, CO, Nov. 2019. (Acceptance rate = 23.8\%)
 
 == 2018
 - *He, Z.*, Chan, Felix. T.S. and Jiang, W., A quantum framework for modelling subjectivity in multi-attribute group decision making, /Computers & Industrial Engineering/, 124 (2018): 560-572.
