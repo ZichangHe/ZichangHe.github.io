@@ -2,17 +2,19 @@
 =Publication
 
 == Preprint
+- *Z. He* and Z. Zhang, "PoBO: A Polynomial Bounding Method for Chance-Constrained Yield-Aware
+ Optimization of Photonic ICs," submitted to /IEEE Trans. Computer-Aided Design for Integrated Circuits and Systems (TCAD)/ [http://arxiv.org/abs/2107.12593 \[arXiv\]] 
 - *Z. He*, B. Zhao and Z. Zhang, "Active sampling for accelerated MRI with low-rank tensors," [https://arxiv.org/abs/2012.12496 \[arXiv\]] 
 
 == 2021
 - *Z. He* and Z. Zhang, "High-dimensional uncertainty quantification via tensor regression with rank determination and adaptive sampling," accepted by /IEEE Trans. Components, Packaging and Manufacturing Technology/. (Ivited paper) [https://arxiv.org/abs/2103.17236 \[arXiv\]] 
-- *Z. He* and Z. Zhang, "Progress of tensor-based high-dimensional uncertainty quantification of process variations," /International Applied Computational Electromagnetics Society (ACES) Symposium/, virtually, Aug. 2021. (Invited paper)
+- *Z. He* and Z. Zhang, "Progress of tensor-based high-dimensional uncertainty quantification of process variations," /International Applied Computational Electromagnetics Society (ACES) Symposium/, virtually, Aug. 2021. (Invited paper) [presentations\ACES21_slides.pdf \[slides\]][https://youtu.be/If8hvxV2qR0 \[video\]]
 
 == 2020
-- *Z. He* and Z. Zhang, "High-dimensional uncertainty quantification via active and rank-adaptive tensor regression," / IEEE Electrical Performance of Electronic Packaging and Systems (EPEPS)/, San Jose, CA, Oct. 2020. {{<font color=red size=+0><b>}}(Best Student Papar award){{</b></font>}} [https://arxiv.org/abs/2009.01993 \[arXiv\]] [presentations\EPEPS20_slides.pdf \[slides\]] [https://youtu.be/O_EHMj5NnRs \[video\]]
+- *Z. He* and Z. Zhang, "High-dimensional uncertainty quantification via active and rank-adaptive tensor regression," / IEEE Electrical Performance of Electronic Packaging and Systems (EPEPS)/, San Jose, CA, Oct. 2020. {{<font color=red size=+0><b>}}(Best Student Papar award){{</b></font>}} [https://arxiv.org/abs/2009.01993 \[arXiv\]][presentations\EPEPS20_slides.pdf \[slides\]][https://youtu.be/O_EHMj5NnRs \[video\]]
 
 == 2019
-- *Z. He*, W. Cui, C. Cui, T. Sherwood and Z. Zhang, "Efficient uncertainty modeling for system design via mixed integer programming," /International Conf. Computer Aided Design (ICCAD)/, Westminster, CO, Nov. 2019. (Acceptance rate = 23.8\%) [https://arxiv.org/abs/1907.05700 \[arXiv\]] [presentations\ICCAD19_slides.pdf \[slides\]] 
+- *Z. He*, W. Cui, C. Cui, T. Sherwood and Z. Zhang, "Efficient uncertainty modeling for system design via mixed integer programming," /International Conf. Computer Aided Design (ICCAD)/, Westminster, CO, Nov. 2019. (Acceptance rate = 23.8\%) [https://arxiv.org/abs/1907.05700 \[arXiv\]][presentations\ICCAD19_slides.pdf \[slides\]] 
 
 == 2018
 - *Z. He*, F.T.S. Chan and W. Jiang, "A quantum framework for modelling subjectivity in multi-attribute group decision making," /Computers & Industrial Engineering/, 124 (2018): 560-572.

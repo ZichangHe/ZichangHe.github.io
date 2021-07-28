@@ -2,10 +2,15 @@
 = Talks & Media
 
 == Talks 
+- *Progress of tensor-based high-dimensional uncertainty quantification of process variations*\n
+Zichang He, Zheng Zhang\n
+/International Applied Computational Electromagnetics Society (ACES) Symposium 2021/\n
+[presentations\ACES21_slides.pdf \[slides\]][https://youtu.be/If8hvxV2qR0 \[video\]]
+
 - *High-dimensional uncertainty quantification via active and rank-adaptive tensor regression*\n
 Zichang He, Zheng Zhang\n
 /IEEE Electrical Performance of Electronic Packaging and Systems/ (EPEPS 2020)\n
-[presentations\EPEPS20_slides.pdf \[slides\]] [https://youtu.be/O_EHMj5NnRs \[video\]]\n
+[presentations\EPEPS20_slides.pdf \[slides\]][https://youtu.be/O_EHMj5NnRs \[video\]]\n
 
 - *Efficient uncertainty modeling for system design via mixed integer programming*\n
 Zichang He, Weilong Cui, Chunfeng Cui, Timothy Sherwood, Zheng Zhang\n
