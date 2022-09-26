@@ -9,27 +9,28 @@ E-mail: /zichanghe/ \[@\] ucsb \[DOT\] edu\n\n
 ~~~
 
 == About Me
-I am a PhD candidate in Electrical and Computer Engineering under the supervision of Prof. [https://www.ece.ucsb.edu/~zhengzhang/ Zheng Zhang]. I am widely working on Uncertainty Quantification and Tensor related topics with applications in Design Automation, Machine Learning, and Quantum Computing. Specific topics include
+I am a PhD candidate in Electrical and Computer Engineering under the supervision of Prof. [https://www.ece.ucsb.edu/~zhengzhang/ Zheng Zhang]. Working on Design Automation, Machine Learning, and Quantum Computing. 
 ~~~
 {}{img_left}{others/word2.png}{alt text}{120}{95}
-- Uncertainty quantification and robustness of machine learning algorithms
-- General tensor learning and sampling algorithms
-- Simulation and uncertainty quantification of classical and quantum circuits
-- Uncertainty- and hardware-aware engineering design of classical and quantum circuits
+- Near-term quantum algorithms and their applications
+- Classical simulation of quantum circuits 
+- Uncertainty quantification and uncertainty-aware design of classical circuits
+- General tensor learning and sampling algorithms 
 ~~~
 
 == News 
-- Aug. 2022: Paper about tensor network contraction for quantum simulation was accepted by HPEC'22.
-- Jul. 2022: Passed the PhD qualify exam. Thanks to my great PhD committee.  
-- Apr. 2022: Will work as a research associate in quantum computing at JPMorgan FLARE this summer. 
-- Apr. 2022: Paper about active tensor sampling for medical imaging is accepted by EMBC'22.
-- Dec. 2021: Won Best Research Video Award at the DAC 2021 Young Fellows Program.
-- Dec. 2021: Paper about chance-constrained yield optimization is accepted by IEEE TCAD. 
-- Sept. 2021: Excited to begin an intern journey in quantum simulation at KBR
+- Sept. 2022: Gave a talk about ML-assisted quantum simulation in IEEE Quantum Week Advanced Simulations of Quantum Computations workshop
+- Aug. 2022: Paper about tensor network contraction for quantum simulation was accepted by IEEE HPEC'22. Won the Best Student Paper Award
+- Jul. 2022: Passed the PhD qualify exam. Thanks to my great PhD committee!  
+- Apr. 2022: Will work as a research associate intern in quantum computing at JPMorgan FLARE this summer 
+- Apr. 2022: Paper about active tensor sampling for medical imaging is accepted by EMBC'22
+- Dec. 2021: Won the Best Research Video Award at the DAC 2021 Young Fellows Program
+- Dec. 2021: Paper about chance-constrained yield optimization is accepted by IEEE TCAD
+- Sept. 2021: Excited to begin an intern journey in quantum simulation at KBR with NASA Quantum AI lab
 - Aug. 2021: Honored to recieve the 2021-2022 IEE Excellent in Research Fellowship (One recipient in IEE annually) [https://iee.ucsb.edu/research-programs/programs/fellowships/iee-excellence-research-fellowship \[link\]]
-- Jun. 2021: Paper "High-dimensional uncertainty quantification via tensor regression with rank determination and adaptive sampling" is accepted by IEEE Trans. Components, Packaging and Manufacturing Technology
-- Jun. 2021: Glad to recieve the Outstanding Teaching Assistant award in the department of ECE for the second time 
-- Oct. 2020: Received the Best Student Paper award in EPEPS 2020 
+- Jun. 2021: An invited paper about high-dimensional uncertainty quantification of classical circuits is accepted by IEEE TCPMT 
+- Jun. 2021: Recieved the Outstanding Teaching Assistant award in the department of ECE for the second time 
+- Oct. 2020: Received the Best Student Paper award in IEEE EPEPS 2020 
 - May. 2020: Received the Outstanding Teaching Assistant award (two recipients in the department annually)
 - Jun. 2019: One paper got accepted by ICCAD'19 (Acceptance rate = 23.8%)
 
@@ -37,7 +38,7 @@ I am a PhD candidate in Electrical and Computer Engineering under the supervisio
 - 2021: DAC Young Student Fellow, Best Research Video Award
 - 2021: IEE Excellent in Research Fellowship (One recipient annually in IEE, UCSB) [https://iee.ucsb.edu/research-programs/programs/fellowships/iee-excellence-research-fellowship \[link\]] 
 - 2021, 2020: Outstanding Teaching Assistant award in the department of ECE, UCSB
-- 2020: Best Student Paper award in EPEPS 
+- 2020: Best Student Paper award in IEEE EPEPS 2020
 - 2018: Graduate Fellowship in the department of ECE, UCSB 
 - 2016: Meritorious Winner in Interdisciplinary Contest in Modeling (awarded by COMAP)
 
