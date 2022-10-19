@@ -6,6 +6,7 @@
 - R. Solgi, *Z. He*, W. J. Liang and Z. Zhang, "Evolutionary tensor shape search for optimum data compression with tensor train decomposition," submitted to /Int. Conf. Acoustics, Speech and Signal Processing (ICASSP) 2022/ [https://arxiv.org/abs/2205.10651 \[arXiv\]] 
 
 == 2022
+- S. Gulania\*, *Z. He\* *, B. Peng\*, N. Govind and Y. Alexeev, "QuYBE - An Algebraic Compiler for Quantum Circuit Compression", ACM/IEEE Workshop on Quantum Computing. (\* Equal contributions) [https://github.com/ZichangHe/QuYBE \[Github\]]
 - C. Ibrahim, D. Lykov, *Z. He*, Y. Alexeev, I. Safro, ``Constructing optimal contraction trees for tensor network quantum circuit simulation,'' /IEEE High Performance Extreme Computing Conference (HPEC)/, 2022. {{<font color=red size=+0><b>}}(Best Student Papar award){{</b></font>}} [https://arxiv.org/abs/2209.02895 \[arXiv\]] 
 - *Z. He*, B. Zhao and Z. Zhang, "Active sampling for accelerated MRI with low-rank tensors," In /Proceedings of the Annual International Conference on the IEEE Engineering in Medicine and Biology Society (EMBC)/, 2022. (Oral) [https://arxiv.org/abs/2012.12496 \[arXiv\]][presentations\EMBC_slides.pdf \[slides\]]
 
