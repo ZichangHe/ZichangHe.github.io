@@ -3,37 +3,19 @@
 
 ~~~
 {}{img_left}{Zichang_photo.png}{alt text}{140}{160}
-PhD candidate \n [https://www.ece.ucsb.edu/ Department of Electrical and Computer Engineering], \n[https://www.ucsb.edu/ University of California, Santa Barbara (UCSB)]\n
-E-mail: /zichanghe/ \[@\] ucsb \[DOT\] edu\n\n
-[https://scholar.google.com/citations?user=DYHuqXcAAAAJ&hl=en Google Scholar], [https://www.researchgate.net/profile/Zichang_He ResearchGate], [https://www.linkedin.com/in/zichang-he-0939a9125/ LinkedIn] 
+Senior Research Associate \n [https://www.jpmorgan.com/technology/applied-research Global Technology Applied Research], \n JPMorgan Chase \n
+
+[https://scholar.google.com/citations?user=DYHuqXcAAAAJ&hl=en Google Scholar], [https://www.linkedin.com/in/zichang-he-0939a9125/ LinkedIn], [https://github.com/ZichangHe Github]
 ~~~
 
 == About Me
-I am a PhD candidate in Electrical and Computer Engineering under the supervision of Prof. [https://www.ece.ucsb.edu/~zhengzhang/ Zheng Zhang]. Working on Design Automation, Machine Learning, and Quantum Computing. 
+I am a researcher in [https://www.jpmorgan.com/technology/applied-research Global Technology Applied Research] at JPMorgan Chase. Before it, I received my PhD degree in [https://www.ece.ucsb.edu/ ECE], [https://www.ucsb.edu/ University of California, Santa Barbara (UCSB)] in 2023 under the supervision of Prof. [https://www.ece.ucsb.edu/~zhengzhang/ Zheng Zhang]. My research mainly focuses on the interdisciplinary topics of design automation and quantum computing.
 ~~~
 {}{img_left}{others/word2.png}{alt text}{120}{95}
-- Near-term quantum algorithms and their applications
-- Classical simulation of quantum circuits 
-- Uncertainty quantification and uncertainty-aware design of classical circuits
-- General tensor learning and sampling algorithms 
+- Quantum algorithms and applications
+- Design automation of quantum computing
+- Uncertainty quantification and uncertainty-aware optimization of classical circuits
 ~~~
-
-== News 
-- Oct. 2022: The QuYBE compiler (exact circuit compression for dynamics simulation) is published
-- Sept. 2022: Gave a talk about ML-assisted quantum simulation in IEEE Quantum Week Advanced Simulations of Quantum Computations workshop
-- Aug. 2022: Paper about tensor network contraction for quantum simulation was accepted by IEEE HPEC'22. Won the Best Student Paper Award
-- Jul. 2022: Passed the PhD qualify exam. Thanks to my great PhD committee!  
-- Apr. 2022: Will work as a research associate intern in quantum computing at JPMorgan FLARE this summer 
-- Apr. 2022: Paper about active tensor sampling for medical imaging is accepted by EMBC'22
-- Dec. 2021: Won the Best Research Video Award at the DAC 2021 Young Fellows Program
-- Dec. 2021: Paper about chance-constrained yield optimization is accepted by IEEE TCAD
-- Sept. 2021: Excited to begin an intern journey in quantum simulation at KBR with NASA Quantum AI lab
-- Aug. 2021: Honored to recieve the 2021-2022 IEE Excellent in Research Fellowship (One recipient in IEE annually) [https://iee.ucsb.edu/research-programs/programs/fellowships/iee-excellence-research-fellowship \[link\]]
-- Jun. 2021: An invited paper about high-dimensional uncertainty quantification of classical circuits is accepted by IEEE TCPMT 
-- Jun. 2021: Recieved the Outstanding Teaching Assistant award in the department of ECE for the second time 
-- Oct. 2020: Received the Best Student Paper award in IEEE EPEPS 2020 
-- May. 2020: Received the Outstanding Teaching Assistant award (two recipients in the department annually)
-- Jun. 2019: One paper got accepted by ICCAD'19 (Acceptance rate = 23.8%)
 
 == Selected Honors & Awards
 - 2022: Best Student Paper award in IEEE HPEC 2022
