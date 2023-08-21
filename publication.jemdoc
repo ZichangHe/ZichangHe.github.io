@@ -2,16 +2,16 @@
 =Publication
 
 == Preprint
-- *Z. He*, R. Shaydulin, S. Chakrabarti, D. Herman, C. Li, Y. Sun, M. Pistoia, "Alignment between Initial State and Mixer Improves QAOA Performance for Constrained Portfolio Optimization'', [https://arxiv.org/abs/2305.03857 \[arXiv\]] \[Highlighed in [https://www.quantinuum.com/hardware/h2 Quantinuum's Press release]\]
+- *Z. He*, R. Shaydulin, S. Chakrabarti, D. Herman, C. Li, Y. Sun, M. Pistoia, "Alignment between initial state and mixer improves QAOA performance for constrained portfolio optimization'', [https://arxiv.org/abs/2305.03857 \[arXiv\]] \[Highlighed in [https://www.quantinuum.com/hardware/h2 Quantinuum's Press release]\]
 - F. Liu\*, *Z. He*\*, Kang Hao Cheong, "When long tail meets adversarial robustness: A re-balanced divergence-enhanced adversarial training," submitted to /IEEE Trans on Neural Networks and Learning Systems (TNNLS)/. (\* Equal contributions)
 - R. Solgi, *Z. He*, W. J. Liang and Z. Zhang, "Evolutionary tensor shape search for optimum data compression with tensor train decomposition," submitted to /ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023/. [https://arxiv.org/abs/2205.10651 \[arXiv\]] 
 
 == 2023
-- Y. Pan\*, *Z. He*\*, N. Guo, Z. Zhang, "Distributionally Robust Circuit Design Optimization under Variation Shifts", /International Conf. Computer Aided Design (ICCAD)/, San Francisco, CA, Oct. 2023. (\* Equal contributions) [https://arxiv.org/abs/2308.08111 \[arXiv\]]
+- Y. Pan\*, *Z. He*\*, N. Guo, Z. Zhang, "Distributionally robust circuit design optimization under variation shifts", /International Conf. Computer Aided Design (ICCAD)/, San Francisco, CA, Oct. 2023. (\* Equal contributions) [https://arxiv.org/abs/2308.08111 \[arXiv\]]
 - Z. Liang, Z. Song, J. Cheng, *Z. He*, J. Liu, H. Wang, R. Qin, Y. Wang, S. Han, X. Qian, and Y. Shi, "Hybrid gate-pulse model for variational quantum algorithms," /ACM\/IEEE Design Automation Conference (DAC)/, San Francisco, CA, Jul. 2023. [https://arxiv.org/abs/2212.00661 \[arXiv\]]
 
 == 2022
-- S. Gulania\*, *Z. He\* *, B. Peng\*, N. Govind and Y. Alexeev, "QuYBE - An Algebraic Compiler for Quantum Circuit Compression", /ACM\/IEEE Symposium on Edge Computing (SEC) Workshop on Quantum Computing/. (\* Equal contributions) [https://arxiv.org/abs/2212.06948 \[arXiv\]][https://github.com/ZichangHe/QuYBE \[Github\]] -- Present in APS March Meeting 2023 [https://meetings.aps.org/Meeting/MAR23/Session/Y72.3 \[link\]]
+- S. Gulania\*, *Z. He\* *, B. Peng\*, N. Govind and Y. Alexeev, "QuYBE - An algebraic compiler for quantum circuit compression", /ACM\/IEEE Symposium on Edge Computing (SEC) Workshop on Quantum Computing/. (\* Equal contributions) [https://arxiv.org/abs/2212.06948 \[arXiv\]][https://github.com/ZichangHe/QuYBE \[Github\]] -- Present in APS March Meeting 2023 [https://meetings.aps.org/Meeting/MAR23/Session/Y72.3 \[link\]]
 - C. Ibrahim, D. Lykov, *Z. He*, Y. Alexeev, I. Safro, ``Constructing optimal contraction trees for tensor network quantum circuit simulation,'' /IEEE High Performance Extreme Computing Conference (HPEC)/, 2022. {{<font color=red size=+0><b>}}(Best Student Papar award){{</b></font>}} [https://arxiv.org/abs/2209.02895 \[arXiv\]] 
 - *Z. He*, B. Zhao and Z. Zhang, "Active sampling for accelerated MRI with low-rank tensors," In /Proceedings of the Annual International Conference on the IEEE Engineering in Medicine and Biology Society (EMBC)/, 2022. (Oral) [https://arxiv.org/abs/2012.12496 \[arXiv\]][presentations\EMBC_slides.pdf \[slides\]]
 
