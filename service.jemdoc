@@ -1,7 +1,13 @@
-# jemdoc: menu{MENU}{teaching.html}, nofooter  
+# jemdoc: menu{MENU}{service.html}, nofooter  
 ==Services
 
-Reviewer of journals:
+Organizer of contests:
+- ACM/IEEE Quantum Computing for Drug Discovery Challenge at ICCAD 2023 [https://qccontest.github.io/QC-Contest/ \[link\]]
+
+Section chair of conferences:
+- IEEE Quantum Week 2023
+
+Reviewer of journals & conferences:
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 - IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)
 - ACM Transactions on Design Automation of Electronic Systems (TODATES)
@@ -13,11 +19,8 @@ Reviewer of journals:
 - Computers & Industrial Engineering
 - Journal of Internet Technology 
 - Science China Information Sciences
-
-Reviewer of conferences:
 - IEEE the Engineering in Medicine and Biology Conference Management System (EMBC'22) 
 
-Organizer of contests:
-- ACM/IEEE Quantum Computing for Drug Discovery Challenge at ICCAD 2023 [https://qccontest.github.io/QC-Contest/ \[link\]]
+
 
 
