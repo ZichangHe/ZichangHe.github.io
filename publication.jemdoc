@@ -7,7 +7,7 @@
 
 
 == 2023
-- *Z. He*, R. Shaydulin, S. Chakrabarti, D. Herman, C. Li, Y. Sun, M. Pistoia, "Alignment between initial state and mixer improves QAOA performance for constrained optimization'', accepted by /NPJ Quantum Information/ [https://arxiv.org/abs/2305.03857 \[arXiv\]] \[Highlighed in [https://www.quantinuum.com/hardware/h2 Quantinuum's Press release]\]
+- *Z. He*, R. Shaydulin, S. Chakrabarti, D. Herman, C. Li, Y. Sun, M. Pistoia, "Alignment between initial state and mixer improves QAOA performance for constrained optimization'', /NPJ Quantum Information/,  9, 121 (2023) [https://www.nature.com/articles/s41534-023-00787-5 \[journal link\]] [https://arxiv.org/abs/2305.03857 \[arXiv\]] \[Highlighed in [https://www.quantinuum.com/hardware/h2 Quantinuum's Press release]\]
 - R. Solgi, *Z. He*, W. J. Liang, Z. Zhang, and H. Loaiciga "Tensor shape search for efficient compression of tensorized data and neural networks," accepted by /Applied Soft Computing/, 2023. [https://www.sciencedirect.com/science/article/pii/S1568494623010050 \[link\]] \[short version in [https://arxiv.org/abs/2205.10651 arXiv]\] 
 - Y. Pan\*, *Z. He*\*, N. Guo, Z. Zhang, "Distributionally robust circuit design optimization under variation shifts", /International Conf. Computer Aided Design (ICCAD)/, San Francisco, CA, Oct. 2023. (\* Equal contributions) [https://arxiv.org/abs/2308.08111 \[arXiv\]][presentations\ICCAD23_slides.pdf \[slides\]]
 - Z. Liang, Z. Song, J. Cheng, *Z. He*, J. Liu, H. Wang, R. Qin, Y. Wang, S. Han, X. Qian, and Y. Shi, "Hybrid gate-pulse model for variational quantum algorithms," /ACM\/IEEE Design Automation Conference (DAC)/, San Francisco, CA, Jul. 2023. [https://arxiv.org/abs/2212.00661 \[arXiv\]]
