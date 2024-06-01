@@ -2,9 +2,13 @@
 =Publication
 
 == Preprint
-- *Z. He*, B. Peng, Y. Alexeev, Z. Zhang, "Distributionally robust variational quantum algorithms with shifted noise", submitted to /ACM Trans on Quantum Computing/. [https://arxiv.org/abs/2308.14935 \[arXiv\]]
+- Z. Gao, Z. Zhang, *Z. He*, J. Gu, D. Pan, D. Boning, "Selecting robust silicon photonic designs after Bayesian optimization without extra simulations", submitted to /Optics Express/
+- Z. Liang, *Z. He*, Y. Sun, D. Herman, Q. Jiao, Y. Zhu, W. Jiang, X. Xu, D. Wu, M. Pistoia, Y. Shi, "Synergizing quantum techniques with machine learning: the drug discovery challenge", submitted to /Scientific Reports/
 - F. Liu\*, *Z. He*\*, Kang Hao Cheong, "When long tail meets adversarial robustness: A re-balanced divergence-enhanced adversarial training," submitted to /IEEE Trans on Neural Networks and Learning Systems (TNNLS)/. (\* Equal contributions)
 
+== 2024
+- *Z. He*, S. Chakrabarti, D. Herman, N. Kumar, C. Li, P. Minseen, P. Niroula, R. Shaydulin, Y. Sun, S. Sureshbabu, R. Yalovtzky, M. Pistoia, "Challenges and Opportunities of Quantum Optimization in Finance'', /ACM\/IEEE Design Automation Conference (DAC)/, San Francisco, CA, Jun. 2024.
+- *Z. He*, B. Peng, Y. Alexeev, Z. Zhang, "Distributionally robust variational quantum algorithms with shifted noise", accepted by /IEEE Trans on Quantum Engineering/. [https://arxiv.org/abs/2308.14935 \[arXiv\]]
 
 == 2023
 - *Z. He*, R. Shaydulin, S. Chakrabarti, D. Herman, C. Li, Y. Sun, M. Pistoia, "Alignment between initial state and mixer improves QAOA performance for constrained optimization'', /npj Quantum Information/,  9, 121 (2023) [https://www.nature.com/articles/s41534-023-00787-5 \[journal link\]] [https://arxiv.org/abs/2305.03857 \[arXiv\]] \[Highlighed in [https://www.quantinuum.com/hardware/h2 Quantinuum's Press release]\] -- Presented in APS March Meeting 2024 [https://meetings.aps.org/Meeting/MAR24/Session/T49.2 \[link\]]
