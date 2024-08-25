@@ -1,12 +1,13 @@
 # jemdoc: menu{MENU}{service.html}, nofooter  
 ==Services
 
+Organizer of events:
+- Quantum Computing Applications and Systems (QCAS) Workshop at ICCAD 2024 [https://sites.google.com/view/qcas-2024/home \[link\]]
+- ACM/IEEE Quantum Computing for Drug Discovery Challenge at ICCAD 2023 [https://qccontest.github.io/QC-Contest/ \[link\]]
+
 Technical Program Committee (TPC) member:
 - Design Automation Conference (DAC) 2024
 - IEEE International Conference on Quantum Computing and Engineering (QCE) 2024
-
-Organizer of events:
-- ACM/IEEE Quantum Computing for Drug Discovery Challenge at ICCAD 2023 [https://qccontest.github.io/QC-Contest/ \[link\]]
 
 Panelist:
 - DAC Early Career Workshop 2024
@@ -20,11 +21,13 @@ Reviewer of journals & conferences:
 - npj Quantum Information
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)
 - IEEE Transactions on Components, Packaging and Manufacturing Technology (TCPMT)
+- ACM Transactions on Quantum Computing (TQC)
 - ACM Transactions on Design Automation of Electronic Systems (TODATES)
 - IEEE Transactions on Cybernetics (TCYB)
 - IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMCA) 
 - IEEE Journal of Selected Topics in Signal Processing 
 - IEEE Computer Architecture Letters
+- Quantum Information Processing
 - Information Sciences
 - International Journal of Approximate Reasoning
 - Computers & Industrial Engineering
