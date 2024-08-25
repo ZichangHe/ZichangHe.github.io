@@ -2,14 +2,14 @@
 =Publication
 
 == Preprint
-- T. Hao\*, *Z. He*\*, R. Shaydulin, J. Larson, M. Pistoia, "End-to-end protocol for high-quality QAOA parameters with few shots" (\* Equal contributions) [https://arxiv.org/abs/2408.00557 \[arXiv\]]
+- T. Hao\*, *Z. He*\*, R. Shaydulin, J. Larson, M. Pistoia, "End-to-end protocol for high-quality QAOA parameters with few shots," (\* Equal contributions) [https://arxiv.org/abs/2408.00557 \[arXiv\]]
 - Z. Gao, Z. Zhang, *Z. He*, J. Gu, D. Pan, D. Boning, "Selecting robust silicon photonic designs after Bayesian optimization without extra simulations,'' submitted to /Optics Express/.
 - Z. Liang, *Z. He*, Y. Sun, D. Herman, Q. Jiao, Y. Zhu, W. Jiang, X. Xu, D. Wu, M. Pistoia, Y. Shi, "Synergizing quantum techniques with machine learning: the drug discovery challenge,'' submitted to /Scientific Reports/.
 - F. Liu\*, *Z. He*\*, Kang Hao Cheong, "When long tail meets adversarial robustness: A re-balanced divergence-enhanced adversarial training,'' submitted to /IEEE Trans on Neural Networks and Learning Systems (TNNLS)/. (\* Equal contributions)
 
 == 2024
-- *Z. He*, R. Shaydulin, D. Herman, C. Li, R. Raymond, S. Sureshbabu, M. Pistoia, "Parameter setting heuristics make the quantum approximate optimization algorithm suitable for the early fault-tolerant era" /International Conf. Computer Aided Design (ICCAD)/, Newark, NJ, Oct. 2024. [https://arxiv.org/abs/2408.09538 \[arXiv\]]
-- T. Hao, *Z. He*, R. Shaydulin, M. Pistoia, S. Tannu, "Variational quantum algorithm landscape reconstruction by low-rank tensor completion,'' IEEE International Conference on Quantum Computing and Engineering (QCE) 2024 [https://arxiv.org/abs/2405.10941 \[arXiv\]]
+- *Z. He*, R. Shaydulin, D. Herman, C. Li, R. Raymond, S. Sureshbabu, M. Pistoia, "Parameter setting heuristics make the quantum approximate optimization algorithm suitable for the early fault-tolerant era," /International Conf. Computer Aided Design (ICCAD)/, Newark, NJ, Oct. 2024. [https://arxiv.org/abs/2408.09538 \[arXiv\]]
+- T. Hao, *Z. He*, R. Shaydulin, M. Pistoia, S. Tannu, "Variational quantum algorithm landscape reconstruction by low-rank tensor completion,'' /IEEE International Conference on Quantum Computing and Engineering (QCE)/ 2024 [https://arxiv.org/abs/2405.10941 \[arXiv\]]
 - *Z. He*, S. Chakrabarti, D. Herman, N. Kumar, C. Li, P. Minseen, P. Niroula, R. Shaydulin, Y. Sun, S. Sureshbabu, R. Yalovtzky, M. Pistoia, "Challenges and opportunities of quantum optimization in finance,'' /ACM\/IEEE Design Automation Conference (DAC)/, San Francisco, CA, Jun. 2024.
 - *Z. He*, B. Peng, Y. Alexeev, Z. Zhang, "Distributionally robust variational quantum algorithms with shifted noise,'' /IEEE Trans on Quantum Engineering/, vol. 5, pp. 1-12, 2024. [https://arxiv.org/abs/2308.14935 \[arXiv\]]
 
