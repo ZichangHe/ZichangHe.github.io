@@ -2,7 +2,8 @@
 =Publication
 
 == Preprint
-- *Z. He*\*, R. Raymond, R. Shaydulin, M. Pistoia, "Non-variational quantum random access optimization with alternating operator ansatz", 2025 [https://arxiv.org/abs/2502.04277 \[arXiv\]]
+- A. Berezutskii, A. Acharya, R. Ellerbrock, J. Gray, R. Haghshenas, *Z. He*, A. Khan, et al., "Tensor networks for quantum computing," 2025 [https://arxiv.org/abs/2503.08626 \[arXiv\]]
+- *Z. He*, R. Raymond, R. Shaydulin, M. Pistoia, "Non-variational quantum random access optimization with alternating operator ansatz," 2025 [https://arxiv.org/abs/2502.04277 \[arXiv\]]
 - S. Chakrabarti, D. Herman, G. Ozgul, S. Zhu, B. Augustino, T. Hao, *Z. He*, R. Shaydulin, M. Pistoia, "Generalized short path algorithms: Towards super-quadratic speedup over Markov chain search for combinatorial optimization," 2024 [https://arxiv.org/abs/2410.23270 \[arXiv\]]
 - *Z. He*\*, D. Amaro\*, R. Shaydulin, M. Pistoia, "Performance of quantum approximate optimization with quantum error detection," 2024 (\* Equal contributions) [https://arxiv.org/abs/2409.12104 \[arXiv\]]
 - T. Hao\*, *Z. He*\*, R. Shaydulin, J. Larson, M. Pistoia, "End-to-end protocol for high-quality QAOA parameters with few shots," 2024 (\* Equal contributions) [https://arxiv.org/abs/2408.00557 \[arXiv\]]
