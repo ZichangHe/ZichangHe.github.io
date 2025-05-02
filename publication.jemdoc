@@ -2,17 +2,17 @@
 =Publication
 
 == Preprint
+- Y. Jin\*, *Z. He*\*, T. Hao, D. Amaro, S. Tannu, R. Shaydulin, M. Pistoia, "Iceberg beyond the tip: Co-compilation of a quantum error detection code and a quantum algorithm," 2025 (\* Equal contributions) [https://arxiv.org/abs/2504.21172 \[arXiv\]]
 - S. Omanakuttan, *Z. He*, Z. Zhang, T. Hao, A. Babakhani, S. Boulebnane, S. Chakrabarti, D. Herman, J. Sullivan, M. A. Perlin, R. Shaydulin, M. Pistoia, "Threshold for fault-tolerant quantum advantage with the quantum approximate optimization algorithm," 2025 [https://arxiv.org/abs/2504.01897 \[arXiv\]]
 - A. Apte, S. H. Sureshbabu, R. Shaydulin, S. Boulebnane, *Z. He*, D. Herman, J. Sud, M. Pistoia, "Iterative interpolation schedules for quantum approximate optimization algorithm", 2025 [https://arxiv.org/abs/2504.01694 \[arXiv\]]
 - A. Berezutskii, A. Acharya, R. Ellerbrock, J. Gray, R. Haghshenas, *Z. He*, A. Khan, et al., "Tensor networks for quantum computing," 2025 [https://arxiv.org/abs/2503.08626 \[arXiv\]]
 - *Z. He*, R. Raymond, R. Shaydulin, M. Pistoia, "Non-variational quantum random access optimization with alternating operator ansatz," 2025 [https://arxiv.org/abs/2502.04277 \[arXiv\]]
-- S. Chakrabarti, D. Herman, G. Ozgul, S. Zhu, B. Augustino, T. Hao, *Z. He*, R. Shaydulin, M. Pistoia, "Generalized short path algorithms: Towards super-quadratic speedup over Markov chain search for combinatorial optimization," 2024 [https://arxiv.org/abs/2410.23270 \[arXiv\]]
 - T. Hao\*, *Z. He*\*, R. Shaydulin, J. Larson, M. Pistoia, "End-to-end protocol for high-quality QAOA parameters with few shots," 2024 (\* Equal contributions) [https://arxiv.org/abs/2408.00557 \[arXiv\]]
-- F. Liu\*, *Z. He*\*, Kang Hao Cheong, "When long tail meets adversarial robustness: A re-balanced divergence-enhanced adversarial training,'' submitted to /IEEE Trans on Neural Networks and Learning Systems (TNNLS)/. (\* Equal contributions)
 
 == 2025
 - *Z. He*\*, D. Amaro\*, R. Shaydulin, M. Pistoia, "Performance of quantum approximate optimization with quantum error detection," accepted by /Nature Communications Physics/ (\* Equal contributions) [https://arxiv.org/abs/2409.12104 \[arXiv\]]
-- H. Hsu, P. Niroula, *Z. He*, C. Chen, “Are we really unlearning? The presence of residual knowledge in machine unlearning,” /ICLR Workshop ICBINB/, 2025 (Spotlight)
+- H. Hsu, P. Niroula, *Z. He*, C. Chen, “Are we really unlearning? The presence of residual knowledge in machine unlearning,” /ICLR Workshop ICBINB/, 2025 (Spotlight) [https://openreview.net/forum?id=HsjHGNYv2O \[link\]]
+- S. Chakrabarti, D. Herman, G. Ozgul, S. Zhu, B. Augustino, T. Hao, *Z. He*, R. Shaydulin, M. Pistoia, "Generalized short path algorithms: Towards super-quadratic speedup over Markov chain search for combinatorial optimization," accepted by TQC talk 2025 [https://arxiv.org/abs/2410.23270 \[arXiv\]] 
 
 == 2024
 - Z. Liang, *Z. He*, Y. Sun, D. Herman, Q. Jiao, Y. Zhu, W. Jiang, X. Xu, D. Wu, M. Pistoia, Y. Shi, "Synergizing quantum techniques with machine learning: the drug discovery challenge,'' /Scientific Reports/, 14, 31216 (2024). [https://www.nature.com/articles/s41598-024-82576-4 \[link\]]

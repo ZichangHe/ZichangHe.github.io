@@ -18,8 +18,8 @@ I am a researcher in [https://www.jpmorgan.com/technology/applied-research Globa
 ~~~
 
 == Selected publications
-- *Z. He*\*, D. Amaro\*, R. Shaydulin, M. Pistoia, "Performance of quantum approximate optimization with quantum error detection," 2024 (\* Equal contributions) [https://arxiv.org/abs/2409.12104 \[arXiv\]]
-- *Z. He*, R. Shaydulin, D. Herman, C. Li, R. Raymond, S. Sureshbabu, M. Pistoia, "Parameter setting heuristics make the quantum approximate optimization algorithm suitable for the early fault-tolerant era," /International Conf. Computer Aided Design (ICCAD)/, Newark, NJ, Oct. 2024. [https://arxiv.org/abs/2408.09538 \[arXiv\]]
+- *Z. He*\*, D. Amaro\*, R. Shaydulin, M. Pistoia, "Performance of quantum approximate optimization with quantum error detection," accepted by /Nature Communications Physics/ (\* Equal contributions) [https://arxiv.org/abs/2409.12104 \[arXiv\]]
+- Y. Jin\*, *Z. He*\*, T. Hao, D. Amaro, S. Tannu, R. Shaydulin, M. Pistoia, "Iceberg beyond the tip: Co-compilation of a quantum error detection code and a quantum algorithm," 2025 (\* Equal contributions) [https://arxiv.org/abs/2504.21172 \[arXiv\]]
 - T. Hao\*, *Z. He*\*, R. Shaydulin, J. Larson, M. Pistoia, "End-to-end protocol for high-quality QAOA parameters with few shots," 2024 (\* Equal contributions) [https://arxiv.org/abs/2408.00557 \[arXiv\]]
 
 
